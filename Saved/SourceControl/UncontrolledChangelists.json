@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/admin/Documents/GitHub/Roguelike_v3/Content/Character/BP_TopDownController.uasset",
+				"C:/Users/admin/Documents/GitHub/Roguelike_v3/Content/Character/BP_TopDownCharacter.uasset",
+				"C:/Users/admin/Documents/GitHub/Roguelike_v3/Content/Map/Materials/M_PP_Outline.uasset",
+				"C:/Users/admin/Documents/GitHub/Roguelike_v3/Content/__ExternalActors__/Map/TopDownMap/B/XS/45R9NJQF07QC6Y5N9UQZJ8.uasset",
+				"C:/Users/admin/Documents/GitHub/Roguelike_v3/Content/__ExternalActors__/Map/TopDownMap/1/NA/BAWYQTWL5OV0HZJACGUAUP.uasset",
+				"C:/Users/admin/Documents/GitHub/Roguelike_v3/Content/__ExternalActors__/Map/TopDownMap/0/QJ/DVDM2OIVC3OYR5Y37ZMV9X.uasset",
 				"E:/Roguelike_v3/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"E:/Roguelike_v3/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"E:/Roguelike_v3/Content/Character/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset",
