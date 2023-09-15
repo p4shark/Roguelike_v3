@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Roguelike_v3.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\admin\Documents\GitHub\Roguelike_v3\Intermediate\Build\Win64\x64\Roguelike_v3Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\admin\Documents\GitHub\Roguelike_v3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Roguelike_v3\MainCPPCharacter.gen.cpp.obj"
+"C:\Users\admin\Documents\GitHub\Roguelike_v3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Roguelike_v3\Roguelike_v3.init.gen.cpp.obj"
+"C:\Users\admin\Documents\GitHub\Roguelike_v3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Roguelike_v3\Weapon.gen.cpp.obj"
+"C:\Users\admin\Documents\GitHub\Roguelike_v3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Roguelike_v3\MainCPPCharacter.cpp.obj"
+"C:\Users\admin\Documents\GitHub\Roguelike_v3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Roguelike_v3\Roguelike_v3.cpp.obj"
+"C:\Users\admin\Documents\GitHub\Roguelike_v3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Roguelike_v3\Weapon.cpp.obj"
+"C:\Users\admin\Documents\GitHub\Roguelike_v3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Roguelike_v3\Default.rc2.res"
+/OUT:"C:\Users\admin\Documents\GitHub\Roguelike_v3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Roguelike_v3\UnrealEditor-Roguelike_v3.lib"

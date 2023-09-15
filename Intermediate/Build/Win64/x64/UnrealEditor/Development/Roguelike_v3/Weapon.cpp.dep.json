@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\documents\\github\\roguelike_v3\\source\\roguelike_v3\\fightcpp\\weapon.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\documents\\github\\roguelike_v3\\intermediate\\build\\win64\\x64\\roguelike_v3editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\documents\\github\\roguelike_v3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\roguelike_v3\\definitions.roguelike_v3.h",
+            "c:\\users\\admin\\documents\\github\\roguelike_v3\\source\\roguelike_v3\\fightcpp\\weapon.h",
+            "c:\\users\\admin\\documents\\github\\roguelike_v3\\intermediate\\build\\win64\\unrealeditor\\inc\\roguelike_v3\\uht\\weapon.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
